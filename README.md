@@ -19,3 +19,4 @@ then go build/libs and there youll see the jar thingy
 
 or just download the release if im not being lazy to build and publish it myself
 
+/
